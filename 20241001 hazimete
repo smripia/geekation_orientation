@@ -1,0 +1,8 @@
+#ホームディレクトリに移動
+＄cd
+
+#geekationWorkspaceディレクトリを作成
+＄mkdir geekationWorkspace
+
+#現在いるディレクトリに存在するファイルやディレクトリを確認
+＄ls -l
