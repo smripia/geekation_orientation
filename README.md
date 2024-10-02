@@ -1,1 +1,1 @@
-# geekation_orientaton
+# geekation_orientation
