@@ -1,8 +1,14 @@
 #ホームディレクトリに移動
-＄cd
+&cd
 
 #geekationWorkspaceディレクトリを作成
-＄mkdir geekationWorkspace
+$mkdir geekationWorkspace
 
 #現在いるディレクトリに存在するファイルやディレクトリを確認
-＄ls -l
+$ls -l
+
+#geekationWorkspaceディレクトリに移動
+$cd geekationWorkspace
+
+#geekation_orientationリポジトリをclone
+$git clone https://github.com/smripia/geekation_orientation.git
